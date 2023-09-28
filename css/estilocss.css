@@ -4,6 +4,19 @@ body {
 
 .card {
     border-color: rgb(255, 0, 0);
-    background-color: #fd92a4;
+    background-color: #f9a6b4;
 }
 
+.nav-item{
+    background-color: rgb(252, 158, 185);
+    padding: 4px;
+    border-radius: 25px;
+}
+
+h2{
+    color: #f991a2;
+}
+
+#logo{
+    border-radius: 50px;
+}
