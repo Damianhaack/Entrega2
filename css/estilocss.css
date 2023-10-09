@@ -1,22 +1,31 @@
+nav h1 {
+  color: rgb(251, 251, 251);
+}
+nav img {
+  border-radius: 30%;
+}
+nav li {
+  border-radius: 23%;
+  background-color: rgb(244, 204, 219);
+}
+
 body {
-    background-color:rgb(252, 203, 211);
+  width: 100vw;
+  height: 100%;
+  background-image: linear-gradient(rgb(247, 134, 153), rgb(248, 239, 240));
 }
 
-.card {
-    border-color: rgb(255, 0, 0);
-    background-color: #f9a6b4;
+section div div.card-body {
+  background-image: linear-gradient(rgb(248, 148, 165), rgb(248, 217, 221));
+}
+section div div.card {
+  height: 180px;
+}
+section h2 {
+  color: rgb(48, 47, 47);
+}
+section a {
+  background-color: rgb(254, 173, 203) !important;
 }
 
-.nav-item{
-    background-color: rgb(252, 158, 185);
-    padding: 4px;
-    border-radius: 25px;
-}
-
-h2{
-    color: #f991a2;
-}
-
-#logo{
-    border-radius: 50px;
-}
+/*# sourceMappingURL=estilocss.css.map */
