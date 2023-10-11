@@ -1,5 +1,6 @@
 nav h1 {
   color: rgb(251, 251, 251);
+  font-family: "Dancing Script", cursive;
 }
 nav img {
   border-radius: 30%;
@@ -23,9 +24,21 @@ section div div.card {
 }
 section h2 {
   color: rgb(48, 47, 47);
+  font-family: "Dancing Script", cursive;
+  font-size: 34px;
 }
 section a {
   background-color: rgb(254, 173, 203) !important;
+}
+section h5 {
+  font-family: "Dancing Script", cursive;
+  font-size: 34px;
+}
+section p {
+  font-family: "Philosopher", sans-serif;
+}
+section h4 {
+  font-family: "Philosopher", sans-serif;
 }
 
 /*# sourceMappingURL=estilocss.css.map */
