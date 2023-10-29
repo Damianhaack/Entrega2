@@ -1,39 +1,48 @@
-section{
+section {
 
- div{
-   div.card-body{
+ div {
+   div.card-body {
     background-image: linear-gradient(rgb(248, 148, 165), rgb(248, 217, 221));
    }
    
-   div.card{
+   div.card {
     height: 180px;
    }
 
+
  }
 
- h2{
+
+ h2 {
     color: rgb(48, 47, 47);
     font-family: 'Dancing Script', cursive;
    font-size: 34px;
  }
 
- a{
+ a {
     background-color: rgb(254, 173, 203) !important;
    }
 
     
- h5{
+ h5 {
    font-family: 'Dancing Script', cursive;
    font-size: 34px;
  }
   
- p{
+ p {
    font-family: 'Philosopher', sans-serif;
  }
 
- h4{
+ h4 {
    font-family: 'Philosopher', sans-serif;
  }
+ 
+div.col-12.col-sm-4 {
+  padding-bottom: 40px;
+ }
 
+#foto {
+  box-shadow: 4px 4px 10px rgba($color: #f552c9, $alpha: 1.0);
+}
 
 }
